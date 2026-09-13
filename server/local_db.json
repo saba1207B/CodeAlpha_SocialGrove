@@ -1,0 +1,329 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arin Bell",
+      "handle": "arinbell",
+      "initials": "AB",
+      "tone": "avatar-olive",
+      "bio": "Curator of slow mornings and good questions.",
+      "email": "arin@socialgrove.local"
+    },
+    {
+      "id": 2,
+      "name": "Maya Chen",
+      "handle": "mayamakes",
+      "initials": "MC",
+      "tone": "avatar-plum",
+      "bio": "Ceramicist and quiet morning enthusiast. Exploring form, fire, and mindful routines.",
+      "email": "maya@socialgrove.local"
+    },
+    {
+      "id": 3,
+      "name": "Jonas Wright",
+      "handle": "jonaswright",
+      "initials": "JW",
+      "tone": "avatar-olive",
+      "bio": "Landscape painter looking for late light and forgotten street corners.",
+      "email": "jonas@socialgrove.local"
+    },
+    {
+      "id": 4,
+      "name": "Nia Okafor",
+      "handle": "niawrites",
+      "initials": "NO",
+      "tone": "avatar-sand",
+      "bio": "Essayist, long lunch advocate, and notebook page collector.",
+      "email": "nia@socialgrove.local"
+    },
+    {
+      "id": 5,
+      "name": "Theo Park",
+      "handle": "theopark",
+      "initials": "TP",
+      "tone": "avatar-blue",
+      "bio": "Architectural designer observing the rhythm of the city.",
+      "email": "theo@socialgrove.local"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1789131058471,
+      "userId": 1,
+      "author": {
+        "id": 1,
+        "name": "Arin Bell",
+        "handle": "arinbell",
+        "initials": "AB",
+        "tone": "avatar-olive",
+        "bio": "Curator of slow mornings and good questions.",
+        "email": "arin@socialgrove.local"
+      },
+      "time": "Just now",
+      "createdAt": "2026-09-11T12:50:58.471Z",
+      "body": "Planting a new thought in the grove: every morning brings quiet possibilities. #slowmorningsPlanting a new thought in the grove: every morning brings quiet possibilities. #slowmornings",
+      "imageUrl": null,
+      "likes": 1,
+      "comments": 1,
+      "liked": true,
+      "saved": true,
+      "replies": [
+        {
+          "id": 1789131105931,
+          "author": {
+            "id": 1,
+            "name": "Arin Bell",
+            "handle": "arinbell",
+            "initials": "AB",
+            "tone": "avatar-olive",
+            "bio": "Curator of slow mornings and good questions.",
+            "email": "arin@socialgrove.local"
+          },
+          "body": "A thoughtful reflection from Arin.",
+          "time": "Just now",
+          "createdAt": "2026-09-11T12:51:45.931Z"
+        }
+      ]
+    },
+    {
+      "id": 1789130802482,
+      "userId": 1,
+      "author": {
+        "id": 1,
+        "name": "Arin Bell",
+        "handle": "arinbell",
+        "initials": "AB",
+        "tone": "avatar-olive",
+        "bio": "Curator of slow mornings and good questions.",
+        "email": "arin@socialgrove.local"
+      },
+      "time": "Just now",
+      "createdAt": "2026-09-11T12:46:42.482Z",
+      "body": "Planting a new thought in the grove: every morning brings quiet possibilities. #slowmornings",
+      "imageUrl": null,
+      "likes": 0,
+      "comments": 0,
+      "liked": false,
+      "saved": false,
+      "replies": []
+    },
+    {
+      "id": 1,
+      "userId": 2,
+      "author": {
+        "id": 2,
+        "name": "Maya Chen",
+        "handle": "mayamakes",
+        "initials": "MC",
+        "tone": "avatar-plum",
+        "bio": "Ceramicist and quiet morning enthusiast. Exploring form, fire, and mindful routines.",
+        "email": "maya@socialgrove.local"
+      },
+      "time": "18m ago",
+      "createdAt": "2026-09-11T12:23:17.484Z",
+      "body": "A small reminder from my morning walk: the best ideas rarely arrive when we ask them to. Leave a little room around the day. #slowmornings",
+      "imageUrl": null,
+      "likes": 48,
+      "comments": 2,
+      "liked": false,
+      "saved": false,
+      "replies": [
+        {
+          "id": 101,
+          "author": {
+            "id": 1,
+            "name": "Arin Bell",
+            "handle": "arinbell",
+            "initials": "AB",
+            "tone": "avatar-olive",
+            "bio": "Curator of slow mornings and good questions.",
+            "email": "arin@socialgrove.local"
+          },
+          "body": "This is exactly what I needed today.",
+          "time": "12m ago",
+          "createdAt": "2026-09-11T12:29:17.485Z"
+        },
+        {
+          "id": 102,
+          "author": {
+            "id": 3,
+            "name": "Jonas Wright",
+            "handle": "jonaswright",
+            "initials": "JW",
+            "tone": "avatar-olive",
+            "bio": "Landscape painter looking for late light and forgotten street corners.",
+            "email": "jonas@socialgrove.local"
+          },
+          "body": "Room around the day — keeping that one.",
+          "time": "5m ago",
+          "createdAt": "2026-09-11T12:36:17.485Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "author": {
+        "id": 3,
+        "name": "Jonas Wright",
+        "handle": "jonaswright",
+        "initials": "JW",
+        "tone": "avatar-olive",
+        "bio": "Landscape painter looking for late light and forgotten street corners.",
+        "email": "jonas@socialgrove.local"
+      },
+      "time": "1h ago",
+      "createdAt": "2026-09-11T11:41:17.485Z",
+      "body": "Collected a few colors on the way home. There is something about late light that makes an ordinary street feel like a new place. #madebyhand",
+      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+      "likes": 112,
+      "comments": 2,
+      "liked": true,
+      "saved": true,
+      "replies": [
+        {
+          "id": 103,
+          "author": {
+            "id": 2,
+            "name": "Maya Chen",
+            "handle": "mayamakes",
+            "initials": "MC",
+            "tone": "avatar-plum",
+            "bio": "Ceramicist and quiet morning enthusiast. Exploring form, fire, and mindful routines.",
+            "email": "maya@socialgrove.local"
+          },
+          "body": "The light is unreal here.",
+          "time": "45m ago",
+          "createdAt": "2026-09-11T11:56:17.485Z"
+        },
+        {
+          "id": 104,
+          "author": {
+            "id": 4,
+            "name": "Nia Okafor",
+            "handle": "niawrites",
+            "initials": "NO",
+            "tone": "avatar-sand",
+            "bio": "Essayist, long lunch advocate, and notebook page collector.",
+            "email": "nia@socialgrove.local"
+          },
+          "body": "This makes me want to take the long way home.",
+          "time": "20m ago",
+          "createdAt": "2026-09-11T12:21:17.485Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "userId": 4,
+      "author": {
+        "id": 4,
+        "name": "Nia Okafor",
+        "handle": "niawrites",
+        "initials": "NO",
+        "tone": "avatar-sand",
+        "bio": "Essayist, long lunch advocate, and notebook page collector.",
+        "email": "nia@socialgrove.local"
+      },
+      "time": "3h ago",
+      "createdAt": "2026-09-11T09:41:17.485Z",
+      "body": "What are you making space for this week? I am choosing one brave conversation, one long lunch, and a notebook page with no outcome attached. #smalljoys",
+      "imageUrl": null,
+      "likes": 76,
+      "comments": 1,
+      "liked": false,
+      "saved": false,
+      "replies": [
+        {
+          "id": 105,
+          "author": {
+            "id": 5,
+            "name": "Theo Park",
+            "handle": "theopark",
+            "initials": "TP",
+            "tone": "avatar-blue",
+            "bio": "Architectural designer observing the rhythm of the city.",
+            "email": "theo@socialgrove.local"
+          },
+          "body": "A page with no outcome attached — yes.",
+          "time": "2h ago",
+          "createdAt": "2026-09-11T10:41:17.485Z"
+        }
+      ]
+    }
+  ],
+  "follows": [
+    {
+      "followerId": 1,
+      "followingId": 2
+    },
+    {
+      "followerId": 1,
+      "followingId": 3
+    },
+    {
+      "followerId": 3,
+      "followingId": 1
+    },
+    {
+      "followerId": 4,
+      "followingId": 1
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "userId": 1,
+      "actor": {
+        "id": 2,
+        "name": "Maya Chen",
+        "handle": "mayamakes",
+        "initials": "MC",
+        "tone": "avatar-plum",
+        "bio": "Ceramicist and quiet morning enthusiast. Exploring form, fire, and mindful routines.",
+        "email": "maya@socialgrove.local"
+      },
+      "type": "like",
+      "text": "Maya Chen liked your morning note.",
+      "time": "25m ago",
+      "createdAt": "2026-09-11T12:16:17.485Z",
+      "read": true
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "actor": {
+        "id": 3,
+        "name": "Jonas Wright",
+        "handle": "jonaswright",
+        "initials": "JW",
+        "tone": "avatar-olive",
+        "bio": "Landscape painter looking for late light and forgotten street corners.",
+        "email": "jonas@socialgrove.local"
+      },
+      "type": "comment",
+      "text": "Jonas Wright replied to your note: 'Love this perspective!'",
+      "time": "1h ago",
+      "createdAt": "2026-09-11T11:41:17.485Z",
+      "read": true
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "actor": {
+        "id": 5,
+        "name": "Theo Park",
+        "handle": "theopark",
+        "initials": "TP",
+        "tone": "avatar-blue",
+        "bio": "Architectural designer observing the rhythm of the city.",
+        "email": "theo@socialgrove.local"
+      },
+      "type": "follow",
+      "text": "Theo Park joined your circle.",
+      "time": "1d ago",
+      "createdAt": "2026-09-10T12:41:17.485Z",
+      "read": true
+    }
+  ]
+}
