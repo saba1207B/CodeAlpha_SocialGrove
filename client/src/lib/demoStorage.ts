@@ -278,7 +278,9 @@ export function getStoredPosts(filter?: "all" | "saved"): Post[] {
   if (typeof window === "undefined") return SEED_POSTS;
   try {
     const raw = localStorage.getItem(STORAGE_KEYS.POSTS);
-    let posts: Post[] = raw ? JSON.parse(raw) : SEED_POSTS;
+    let posts: Post[] = raw
+      ? JSON.parse(raw).map((p: any) => ({ ...p, saved: Boolean(p.saved) }))
+      : SEED_POSTS;
     if (!raw) {
       localStorage.setItem(STORAGE_KEYS.POSTS, JSON.stringify(SEED_POSTS));
     }
