@@ -1,6 +1,6 @@
 # Social Grove 🌿
 
-> **A gentle, mindful corner of the internet for ideas worth keeping.**
+> **A modern social platform for sharing ideas, conversations, communities, and creative work.**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2e7d32?style=for-the-badge&logo=github)](https://saba1207b.github.io/CodeAlpha_SocialGrove/)
 [![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react)](https://react.dev/)
@@ -12,7 +12,7 @@
 
 ## 🌟 Overview
 
-**Social Grove** is a serene, intentional social platform designed as an antidote to noisy algorithmic feeds. Built with warmth, craftsmanship, and mindfulness in mind, it provides spaces for quiet reflections, studio journals, craft logs, and meaningful dialogue between kindred creators.
+**Social Grove** is a modern social platform focused on personal posts, conversations, community circles, bookmarks, media sharing, and profile customization. Its visual system uses a calm editorial aesthetic while the application provides interactive client-side functionality suitable for a static GitHub Pages demonstration.
 
 ### 🔗 Live Preview
 Experience the interactive live web application directly on GitHub Pages:
@@ -102,4 +102,7 @@ To view the live deployment:
 ---
 
 ## 📄 License
-MIT License © 2026 Social Grove
+
+This project is licensed under the [MIT License](LICENSE).
+
+The GitHub Pages deployment is a demonstration build. Features that depend on backend services or persistent server-side data require the full application environment rather than the static Pages deployment.
